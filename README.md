@@ -29,8 +29,7 @@ The Secret Santa Assignment System is designed to solve the "Acme" company's cha
 Clone this repository to your local machine:
 
 ```bash
-git clone <repository-url>
-cd secret-santa-assignment
+git clone https://github.com/Bipinpradeep/secret-santa.git
 ```
 
 No additional dependencies are required beyond the Python standard library.
